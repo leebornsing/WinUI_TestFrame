@@ -1,0 +1,81 @@
+
+[WinError -2147221008] 尚未调用 CoInitialize。
+Can not load UIAutomationCore.dll.
+1, You may need to install Windows Update KB971513 if your OS is Windows XP, see https://github.com/yinkaisheng/WindowsUpdateKB971513ForIUIAutomation
+2, You need to use an UIAutomationInitializerInThread object if use uiautomation in a thread, see demos/uiautomation_in_thread.py
+2023-06-20 10:34:16.272 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '属性'}
+2023-06-20 10:34:26.865 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '属性'}
+2023-06-20 10:34:37.429 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '属性'}
+2023-06-20 10:34:47.993 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '属性'}
+2023-06-20 10:34:58.554 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '属性'}
+2023-06-20 10:35:09.225 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '属性'}
+2023-06-20 10:35:19.383 pydevd_resolver.py[178] _getPyDictionary -> 2023-06-20 10:35:47.442 pydevd_xml.py[309] var_to_xml -> 2023-06-20 10:41:27.796 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '类型', ControlType: TreeItemControl}
+2023-06-20 10:41:28.200 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '属性'}
+2023-06-20 10:41:28.200 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {ControlType: TreeControl}
+2023-06-20 10:41:34.851 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {Name: '类型', ControlType: TreeItemControl}
+2023-06-20 10:41:45.429 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '类型', ControlType: TreeItemControl}
+2023-06-20 10:41:55.898 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '类型', ControlType: TreeItemControl}
+2023-06-20 10:42:06.460 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '类型', ControlType: TreeItemControl}
+2023-06-20 10:42:16.931 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '类型', ControlType: TreeItemControl}
+2023-06-20 10:42:27.659 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '类型', ControlType: TreeItemControl}
+2023-06-20 10:42:38.291 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '类型', ControlType: TreeItemControl}
+2023-06-20 10:42:48.852 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '类型', ControlType: TreeItemControl}
+2023-06-20 10:42:59.340 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '类型', ControlType: TreeItemControl}
+2023-06-20 10:43:09.923 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '类型', ControlType: TreeItemControl}
+2023-06-20 10:43:20.395 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '类型', ControlType: TreeItemControl}
+2023-06-20 10:43:31.076 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '类型', ControlType: TreeItemControl}
+2023-06-20 10:43:41.578 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: '类型', ControlType: TreeItemControl}
+2023-06-20 10:43:52.319 pydevd_resolver.py[178] _getPyDictionary -> 2023-06-20 10:44:10.701 UIautomation_Base.py[47] get_win -> Find Control Timeout(10s): {ControlType: ListControl}
+2023-06-20 10:44:21.308 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {ControlType: ListControl}
+2023-06-20 11:02:08.782 UIautomation_Base.py[47] get_win -> 2023-06-20 11:17:25.084 UIautomation_Base.py[47] get_win -> 2023-06-20 11:17:51.209 UIautomation_Base.py[47] get_win -> 2023-06-20 11:35:25.472 UIautomation_Base.py[81] get_child_controls -> 2023-06-20 11:36:01.359 UIautomation_Base.py[81] get_child_controls -> 2023-06-20 14:20:28.076 UIautomation_Base.py[79] get_child_controls -> 2023-06-20 14:21:45.748 UIautomation_Base.py[79] get_child_controls -> Find Control Timeout(10s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:21:56.260 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:22:37.604 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:23:17.867 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:23:31.320 <string>[1] <module> -> Find Control Timeout(10s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:23:42.334 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(10s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:24:50.401 <string>[2] <module> -> Find Control Timeout(60s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:25:51.179 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(60s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:28:30.948 UIautomation_Base.py[79] get_child_controls -> 2023-06-20 14:30:38.040 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {ControlType: ListControl}
+2023-06-20 14:30:44.650 UIautomation_Base.py[80] get_child_controls -> Find Control Timeout(30s): {ControlType: ListControl}
+2023-06-20 14:31:15.411 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {ControlType: ListControl}
+2023-06-20 14:33:38.669 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:33:45.960 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:33:45.961 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {Name: '模型架构'}
+2023-06-20 14:33:47.647 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {Name: '模型架构'}
+2023-06-20 14:33:47.647 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:33:49.772 pydevd_xml.py[309] var_to_xml -> 2023-06-20 14:35:35.648 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:35:45.882 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:36:15.916 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:36:46.625 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:37:16.909 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:37:47.190 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:38:17.216 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:38:47.317 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:39:17.753 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:39:48.391 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:40:19.054 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:40:49.844 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:41:20.047 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:41:50.288 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:42:20.633 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 14:42:50.824 pydevd_resolver.py[178] _getPyDictionary -> 2023-06-20 16:08:55.555 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 16:09:11.315 pydevd_xml.py[309] var_to_xml -> 2023-06-20 16:09:11.315 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {ClassNameFind Control Timeout(30s): {: Name: 'Qt5QWindowIcon''模型架构'}
+, ControlType: WindowControl}
+2023-06-20 16:09:35.009 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {Name: '模型架构'}
+2023-06-20 16:10:05.585 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {Name: '模型架构'}
+2023-06-20 16:10:36.007 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {Name: '模型架构'}
+2023-06-20 16:11:06.532 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {Name: '模型架构'}
+2023-06-20 16:11:36.759 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {Name: '模型架构'}
+2023-06-20 16:12:07.123 pydevd_resolver.py[178] _getPyDictionary -> 2023-06-20 16:12:53.114 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 16:13:06.787 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {Name: '模型架构'}
+2023-06-20 16:13:06.787 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 16:13:40.866 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {Name: '模型架构'}
+2023-06-20 16:13:41.125 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {Name: 'BusTTE_1'}
+2023-06-20 16:13:41.125 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 16:13:56.493 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 16:14:27.042 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 16:14:57.260 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 16:15:27.515 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 16:15:57.749 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(30s): {ClassName: 'Qt5QWindowIcon', ControlType: WindowControl}
+2023-06-20 16:16:33.757 pydevd_xml.py[309] var_to_xml -> Find Control Timeout(30s): {Name: '模型架构'}
+2023-06-20 17:04:15.132 UIautomation_Base.py[49] get_win -> 2023-06-20 17:06:31.151 UIautomation_Base.py[49] get_win -> 
