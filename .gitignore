@@ -1,0 +1,13 @@
+# ignore all the cache and logs by python
+*/__pycache__
+#/.gitignore
+#/cache
+/.idea
+#/log
+/Logs
+/pilling
+/test_pytest/allure-reports/
+/test_pytest/allure-results/
+#/Conf
+#/test_pytest
+/test_data
