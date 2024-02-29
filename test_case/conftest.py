@@ -1,16 +1,12 @@
 import allure
 import pytest
-import pyautogui
 import shutil
 import os
-# from common.Logs import Log
 from config_lib.Draw_Operation import Mspaint_Operation
 from config_lib.UIautomation_Base import Handle_Operation
-from config_lib import images_on_screen, Operation_Files_Base
+from config_lib import Operation_Files_Base
 from config_lib.Wechat_Operation import Wechat_Operation
-
 ROOT_PATH = os.path.dirname(os.path.dirname(__file__))
-# logger = Log(__name__).logger
 LOG_PATH = os.path.dirname(os.path.dirname(__file__)).replace("/", "\\")
 compini = True
 
@@ -31,7 +27,6 @@ def aft_for_test():
 
 @pytest.fixture(scope="session", autouse=True)
 def msp():
-    # 配置Artstudio基础界面
     msp = Mspaint_Operation()
     pre_for_test()
     yield msp
@@ -39,7 +34,6 @@ def msp():
 
 @pytest.fixture(scope="session", autouse=True)
 def wx():
-    # 配置Artstudio基础界面
     wx = Wechat_Operation()
     pre_for_test()
     yield wx
